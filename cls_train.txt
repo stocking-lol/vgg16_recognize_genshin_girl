@@ -1,0 +1,14 @@
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.1.jpg
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.2.jpg
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.3.jpg
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.4.jpg
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.5.jpg
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.6.jpg
+0;E:\python learning\pywork\vgg16_identify_animate_charater\train\ganyu\ganyu.7.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.1.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.2.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.3.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.4.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.5.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.6.jpg
+1;E:\python learning\pywork\vgg16_identify_animate_charater\train\keqing\keqing.7.jpg
