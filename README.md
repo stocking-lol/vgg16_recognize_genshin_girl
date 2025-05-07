@@ -1,1 +1,3 @@
 # vgg16_recognize_genshin_girl
+因为训练的数据量少所以容易出现过拟合
+predict部分明天再写。
