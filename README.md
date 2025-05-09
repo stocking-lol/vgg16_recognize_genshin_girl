@@ -1,3 +1,4 @@
 # vgg16_recognize_genshin_girl
 因为训练的数据量少所以容易出现过拟合
-predict部分明天再写。
+predict.py已更新，外添加一张验证用的图片
+可以选择自己训练的模型进行验证
